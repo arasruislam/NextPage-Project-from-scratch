@@ -4,7 +4,7 @@ A simple React app built with React & React Router Dom.
 
 ## Live Link
 
-Hosted in Netlify -> [nextPage](https://next-page.netlify.app/)
+Hosted in Netlify -> [nextPage](https://ubiquitous-puppy-d7a175.netlify.app/)
 
 ## API
 
@@ -20,7 +20,7 @@ Documentation Link -> [Link](https://tailwindcss.com/docs/installation)
 
 ## Resources & Credits
 
-Icon -> [Hero Icons](https://heroicons.com/)
+Icon -> [React Icons](https://react-icons.github.io/react-icons)
 
 Lottie Animation -> [LottieFiles](https://lottiefiles.com/featured)
 
